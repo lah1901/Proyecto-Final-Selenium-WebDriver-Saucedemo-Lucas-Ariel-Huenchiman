@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports y screenshots generados
+reports/
+screenshots/
+
+# Logs
+*.log
+logs_v2/
+
+# Otros
+*.egg-info/
+.env
